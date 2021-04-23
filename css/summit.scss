@@ -8,6 +8,7 @@ $hdr-bg-color: transparent;
 }
 
 #header {
+	display:flex;
 	background-color: $hdr-bg-color;
 	background-image: url("/themes/orfeus/images/wind.png"), linear-gradient(to top left, #E77500, orange);
 	background-position: top center;

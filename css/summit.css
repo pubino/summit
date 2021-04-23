@@ -4,6 +4,7 @@
 }
 
 #header {
+  display: flex;
   background-color: transparent;
   background-image: url("/themes/orfeus/images/wind.png"), linear-gradient(to top left, #E77500, orange);
   background-position: top center;
