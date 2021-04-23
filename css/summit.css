@@ -25,6 +25,9 @@
   max-width: 25%;
   margin: 0 0 0 0;
 }
+#header .site-branding__slogan {
+  font-size: 1.75em;
+}
 
 #page {
   background-image: url("/themes/orfeus/images/solar.jpg");
