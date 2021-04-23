@@ -3,9 +3,13 @@ $hdr-bg-color: transparent;
 
 @import 'https://fonts.googleapis.com/css?family=Oswald';
 
+.region-header {
+	text-align: center;
+}
+
 #header {
 	background-color: $hdr-bg-color;
-	background-image: url("/themes/orfeus/images/wind.png"), linear-gradient(to top left, #2991CE, #0C71B8);
+	background-image: url("/themes/orfeus/images/wind.png"), linear-gradient(to top left, #E77500, orange);
 	background-position: top center;
 	background-size: 170px, 100%;
 	background-repeat: repeat, no-repeat;	
